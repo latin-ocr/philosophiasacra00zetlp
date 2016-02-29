@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philosophiasacra00zetlp_0021.png"; bbox 0 0 2044 2698; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 428 1576 1129 1579">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 428 1576 1129 1579">
+     <span class='ocr_line' id='line_1_1' title="bbox 428 1576 1129 1579; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 428 1576 1129 1579; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1398 1021 1403 1626">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1398 1021 1403 1626">
+     <span class='ocr_line' id='line_1_2' title="bbox 1398 1021 1403 1626; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1398 1021 1403 1626; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 341 332 1454 2216">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 341 332 1454 2216">
+     <span class='ocr_line' id='line_1_3' title="bbox 341 332 1454 2216; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 341 332 1454 2216; x_wconf 95' lang='lat' dir='ltr'><em>     </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 376 2162 1391 2271">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 376 2162 1391 2271">
+     <span class='ocr_line' id='line_1_4' title="bbox 376 2162 1391 2217; baseline 0.001 -4"><span class='ocrx_word' id='word_1_4' title='bbox 376 2164 449 2213; x_wconf 69' lang='lat' dir='ltr'><em>D·</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 481 2163 747 2216; x_wconf 53' lang='lat' dir='ltr'><em>Staszzssslaus</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 782 2170 837 2217; x_wconf 69' lang='lat' dir='ltr'><em>z&#39;n</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 861 2171 888 2217; x_wconf 79' lang='grc' dir='ltr'><em>ι’</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 936 2162 1190 2217; x_wconf 49' lang='grc' dir='ltr'><em>αητιάᾞαι·</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1210 2189 1285 2214; x_wconf 86' lang='lat' dir='ltr'><em>ma</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1318 2188 1391 2215; x_wconf 75' lang='lat' dir='ltr'><em>nae</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 599 2223 1140 2271; baseline 0.006 -3"><span class='ocrx_word' id='word_1_11' title='bbox 599 2223 883 2271; x_wconf 55' lang='lat' dir='ltr'><em>Sarmatam</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 925 2223 1109 2271; x_wconf 52' lang='lat' dir='ltr'><em>z&#39;tfflz&#39;ct&#39;a</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1136 2259 1140 2263; x_wconf 70' lang='lat'><em>›</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
